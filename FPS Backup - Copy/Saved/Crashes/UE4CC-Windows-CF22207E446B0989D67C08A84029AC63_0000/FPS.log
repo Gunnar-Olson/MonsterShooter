@@ -1,0 +1,1164 @@
+﻿Log file open, 12/04/21 12:18:10
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: FPS
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 83 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.449306
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin HoudiniEngine
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/Gunna/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Xeon(R) W-2195 CPU @ 2.30GHz, GPU: NVIDIA Quadro RTX 5000
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Gunna/Desktop/Personal Projects/FPS/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.12.04-17.18.10:919][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.12.04-17.18.10:919][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.12.04-17.18.10:919][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Gunna/Desktop/Personal Projects/FPS/Saved/Config/Windows/Engine.ini]
+[2021.12.04-17.18.10:919][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.12.04-17.18.10:919][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2021.12.04-17.18.10:919][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Gunna/Desktop/Personal Projects/FPS/Saved/Config/Windows/Engine.ini]
+[2021.12.04-17.18.10:919][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Gunna/Desktop/Personal Projects/FPS/Saved/Config/Windows/Engine.ini]
+[2021.12.04-17.18.10:919][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.12.04-17.18.10:919][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.12.04-17.18.10:919][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.12.04-17.18.10:919][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.12.04-17.18.10:919][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.12.04-17.18.10:919][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.12.04-17.18.10:919][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.12.04-17.18.10:919][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.12.04-17.18.10:919][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.12.04-17.18.10:919][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.12.04-17.18.10:919][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.12.04-17.18.10:919][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.12.04-17.18.10:919][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.12.04-17.18.10:919][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.12.04-17.18.10:919][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Gunna/Desktop/Personal Projects/FPS/Saved/Config/Windows/Engine.ini]
+[2021.12.04-17.18.10:919][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.12.04-17.18.10:919][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.12.04-17.18.10:919][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.12.04-17.18.10:919][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.12.04-17.18.10:919][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.12.04-17.18.10:919][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.12.04-17.18.10:919][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.12.04-17.18.10:919][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.12.04-17.18.10:919][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.12.04-17.18.10:919][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.12.04-17.18.10:919][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.12.04-17.18.10:919][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.12.04-17.18.10:919][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.12.04-17.18.10:919][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.12.04-17.18.10:919][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Gunna/Desktop/Personal Projects/FPS/Saved/Config/Windows/Engine.ini]
+[2021.12.04-17.18.10:919][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Gunna/Desktop/Personal Projects/FPS/Saved/Config/Windows/Engine.ini]
+[2021.12.04-17.18.10:930][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Gunna/Desktop/Personal Projects/FPS/Saved/Config/Windows/Scalability.ini]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Gunna/Desktop/Personal Projects/FPS/Saved/Config/Windows/Scalability.ini]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Gunna/Desktop/Personal Projects/FPS/Saved/Config/Windows/Scalability.ini]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Gunna/Desktop/Personal Projects/FPS/Saved/Config/Windows/Scalability.ini]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.04-17.18.10:930][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Gunna/Desktop/Personal Projects/FPS/Saved/Config/Windows/Scalability.ini]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Gunna/Desktop/Personal Projects/FPS/Saved/Config/Windows/Scalability.ini]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Gunna/Desktop/Personal Projects/FPS/Saved/Config/Windows/Scalability.ini]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Gunna/Desktop/Personal Projects/FPS/Saved/Config/Windows/Scalability.ini]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.12.04-17.18.10:931][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.04-17.18.10:931][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.12.04-17.18.10:931][  0]LogHAL: Display: Platform has ~ 32 GB [34025390080 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.12.04-17.18.10:931][  0]LogInit: Going up to parent DeviceProfile []
+[2021.12.04-17.18.10:931][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [C:/Users/Gunna/Desktop/Personal Projects/FPS/Saved/Config/Windows/Scalability.ini]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [C:/Users/Gunna/Desktop/Personal Projects/FPS/Saved/Config/Windows/Scalability.ini]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [C:/Users/Gunna/Desktop/Personal Projects/FPS/Saved/Config/Windows/Scalability.ini]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2021.12.04-17.18.10:931][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [C:/Users/Gunna/Desktop/Personal Projects/FPS/Saved/Config/Windows/Scalability.ini]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Gunna/Desktop/Personal Projects/FPS/Saved/Config/Windows/Scalability.ini]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [C:/Users/Gunna/Desktop/Personal Projects/FPS/Saved/Config/Windows/Scalability.ini]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:0]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.SSGI.Quality:1]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [C:/Users/Gunna/Desktop/Personal Projects/FPS/Saved/Config/Windows/Scalability.ini]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[foliage.DensityScale:0]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[grass.DensityScale:0]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [C:/Users/Gunna/Desktop/Personal Projects/FPS/Saved/Config/Windows/Scalability.ini]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2021.12.04-17.18.10:932][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.12.04-17.18.10:933][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.12.04-17.18.10:933][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.12.04-17.18.10:933][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.12.04-17.18.10:933][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Gunna/Desktop/Personal Projects/FPS/Saved/Config/Windows/Engine.ini]
+[2021.12.04-17.18.10:933][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Gunna/Desktop/Personal Projects/FPS/Saved/Config/Windows/Editor.ini]
+[2021.12.04-17.18.10:933][  0]LogInit: Computer: DESKTOP-K820KM6
+[2021.12.04-17.18.10:933][  0]LogInit: User: Gunna
+[2021.12.04-17.18.10:933][  0]LogInit: CPU Page size=4096, Cores=18
+[2021.12.04-17.18.10:933][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.12.04-17.18.10:933][  0]LogMemory: Memory total: Physical=31.7GB (32GB approx)
+[2021.12.04-17.18.10:933][  0]LogMemory: Platform Memory Stats for Windows
+[2021.12.04-17.18.10:933][  0]LogMemory: Process Physical Memory: 149.89 MB used, 149.89 MB peak
+[2021.12.04-17.18.10:933][  0]LogMemory: Process Virtual Memory: 137.18 MB used, 137.18 MB peak
+[2021.12.04-17.18.10:933][  0]LogMemory: Physical Memory: 8860.99 MB used,  23588.15 MB free, 32449.14 MB total
+[2021.12.04-17.18.10:933][  0]LogMemory: Virtual Memory: 134151496.00 MB used,  66229.00 MB free, 134217728.00 MB total
+[2021.12.04-17.18.10:950][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.12.04-17.18.11:037][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.12.04-17.18.11:040][  0]LogInit: Using OS detected language (en-US).
+[2021.12.04-17.18.11:040][  0]LogInit: Using OS detected locale (en-US).
+[2021.12.04-17.18.11:056][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.12.04-17.18.11:311][  0]LogInit: Setting process to per monitor DPI aware
+[2021.12.04-17.18.11:353][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.04-17.18.11:378][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.12.04-17.18.11:378][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.12.04-17.18.11:586][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.04-17.18.11:586][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.12.04-17.18.11:586][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.12.04-17.18.11:586][  0]LogD3D11RHI: D3D11 adapters:
+[2021.12.04-17.18.11:757][  0]LogD3D11RHI:    0. 'NVIDIA Quadro RTX 5000' (Feature Level 11_0)
+[2021.12.04-17.18.11:757][  0]LogD3D11RHI:       16170/0/16224 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.12.04-17.18.11:915][  0]LogD3D11RHI:    1. 'NVIDIA Quadro RTX 5000' (Feature Level 11_0)
+[2021.12.04-17.18.11:915][  0]LogD3D11RHI:       16170/0/16224 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2021.12.04-17.18.11:926][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.12.04-17.18.11:926][  0]LogD3D11RHI:       0/0/16224 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.12.04-17.18.11:926][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.12.04-17.18.11:935][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.12.04-17.18.11:935][  0]LogD3D11RHI:     GPU DeviceId: 0x1eb0 (for the marketing name, search the web for "GPU Device Id")
+[2021.12.04-17.18.11:935][  0]LogWindows: EnumDisplayDevices:
+[2021.12.04-17.18.11:935][  0]LogWindows:    0. 'NVIDIA Quadro RTX 5000' (P:1 D:1)
+[2021.12.04-17.18.11:936][  0]LogWindows:    1. 'NVIDIA Quadro RTX 5000' (P:0 D:0)
+[2021.12.04-17.18.11:937][  0]LogWindows:    2. 'NVIDIA Quadro RTX 5000' (P:0 D:0)
+[2021.12.04-17.18.11:937][  0]LogWindows:    3. 'NVIDIA Quadro RTX 5000' (P:0 D:0)
+[2021.12.04-17.18.11:938][  0]LogWindows:    4. 'NVIDIA Quadro RTX 5000' (P:0 D:0)
+[2021.12.04-17.18.11:938][  0]LogWindows:    5. 'NVIDIA Quadro RTX 5000' (P:0 D:0)
+[2021.12.04-17.18.11:939][  0]LogWindows:    6. 'NVIDIA Quadro RTX 5000' (P:0 D:0)
+[2021.12.04-17.18.11:940][  0]LogWindows:    7. 'NVIDIA Quadro RTX 5000' (P:0 D:0)
+[2021.12.04-17.18.11:940][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2021.12.04-17.18.11:940][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro RTX 5000
+[2021.12.04-17.18.11:940][  0]LogD3D11RHI:   Driver Version: 462.31 (internal:27.21.14.6231, unified:462.31)
+[2021.12.04-17.18.11:940][  0]LogD3D11RHI:      Driver Date: 4-8-2021
+[2021.12.04-17.18.11:940][  0]LogRHI: Texture pool is 11319 MB (70% of 16170 MB)
+[2021.12.04-17.18.12:070][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.12.04-17.18.12:071][  0]LogD3D11RHI: Async texture creation enabled
+[2021.12.04-17.18.12:071][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.12.04-17.18.12:092][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.12.04-17.18.12:099][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.12.04-17.18.12:798][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.12.04-17.18.12:823][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.12.04-17.18.12:823][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.12.04-17.18.12:823][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.12.04-17.18.12:823][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.12.04-17.18.12:823][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.12.04-17.18.12:823][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.12.04-17.18.12:823][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.12.04-17.18.12:823][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.12.04-17.18.12:823][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.12.04-17.18.12:823][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.12.04-17.18.12:879][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.12.04-17.18.12:879][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.12.04-17.18.12:902][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.12.04-17.18.12:922][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.12.04-17.18.12:952][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.12.04-17.18.12:970][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.12.04-17.18.12:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.12.04-17.18.12:998][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.12.04-17.18.13:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.12.04-17.18.13:037][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.12.04-17.18.13:037][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.12.04-17.18.13:066][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.12.04-17.18.13:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.12.04-17.18.13:092][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.12.04-17.18.13:104][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.12.04-17.18.13:119][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.12.04-17.18.13:119][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.12.04-17.18.13:131][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.12.04-17.18.13:143][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.12.04-17.18.13:155][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.12.04-17.18.13:169][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.12.04-17.18.13:169][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.12.04-17.18.13:195][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.12.04-17.18.13:346][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.12.04-17.18.13:346][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../Users/Gunna/Desktop/Personal Projects/FPS/Intermediate/Shaders/WorkingDirectory/4876/).
+[2021.12.04-17.18.13:346][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Gunna/AppData/Local/Temp/UnrealShaderWorkingDir/9CDE77064E614CCFDE7A48B5034A7E17/'.
+[2021.12.04-17.18.13:346][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.12.04-17.18.13:346][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.12.04-17.18.14:140][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.12.04-17.18.14:202][  0]LogDerivedDataCache: Loaded boot cache 0.06s 79MB C:/Users/Gunna/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.12.04-17.18.14:202][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Gunna/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.12.04-17.18.14:202][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Gunna/Desktop/Personal Projects/FPS/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.12.04-17.18.14:202][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.12.04-17.18.14:202][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Gunna/Desktop/Personal Projects/FPS/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.04-17.18.14:202][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.12.04-17.18.14:213][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.12.04-17.18.14:213][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.04-17.18.14:213][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.12.04-17.18.14:241][  0]LogDerivedDataCache: Speed tests for C:/Users/Gunna/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.03 seconds
+[2021.12.04-17.18.14:241][  0]LogDerivedDataCache: Display: Performance to C:/Users/Gunna/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=697.18MBs, RandomWriteSpeed=36.03MBs. Assigned SpeedClass 'Local'
+[2021.12.04-17.18.14:243][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Gunna/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.12.04-17.18.14:243][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.12.04-17.18.14:243][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.12.04-17.18.14:311][  0]LogSlate: Using FreeType 2.10.0
+[2021.12.04-17.18.14:311][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.12.04-17.18.14:366][  0]LogAssetRegistry: FAssetRegistry took 0.0043 seconds to start up
+[2021.12.04-17.18.14:610][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.04-17.18.14:610][  0]LogInit: Active device profile: [00000278BBEF1900][00000278BB160100 49] Windows
+[2021.12.04-17.18.14:610][  0]LogInit: Profiles: [00000278BBEF1900][00000278BB160100 49] Windows, [00000278BBEC7900][00000278BB16E280 49] WindowsNoEditor, [00000278BBEF3300][00000278BB172400 49] WindowsServer, [00000278BBEC5000][00000278BB176580 49] WindowsClient, [00000278BBEF1100][00000278BB17A700 49] IOS, [00000278BBEC7600][00000278BB17E880 49] iPadAir, [00000278BBEF3200][00000278BB182A00 49] iPadAir2, [00000278BBE6E600][00000278BB190CC0 49] IPadPro, [00000278BBE6E700][00000278BB186D00 49] iPadAir3, [00000278BBEF3700][00000278BB19AE80 49] iPadAir4, [00000278BBE6FC00][00000278BB19F000 49] iPadMini2, [00000278BBEF1F00][00000278BB1A3180 49] iPadMini3, [00000278BBE6DB00][00000278BB1A7300 49] iPadMini4, [00000278BBEF1E00][00000278BB1AB480 49] iPadMini5, [00000278BBEA1F00][00000278BB165700 49] iPhone6, [00000278BBEA2000][00000278BB1AF740 49] iPodTouch6, [00000278BBEC7700][00000278BB1B7980 49] iPhone7, [00000278BBEC7800][00000278BB1B39C0 49] iPodTouch7, [00000278BBEA3600][00000278BB1BFB40 49] iPhone5S, [00000278BBEC5800][00000278BB1C3CC0 49] iPhone6Plus, [00000278BBEA1900][00000278BB1C6180 49] iPhone6S, [00000278BBEC7E00][00000278BB1CA300 49] iPhone6SPlus, [00000278BBEA0C00][00000278BB1CE480 49] iPhone7Plus, [00000278BBEC6B00][00000278BB1D2600 49] iPhoneSE, [00000278BBEA1200][00000278BB1D6780 49] iPhone8, [00000278BBEC7400][00000278BB1DA900 49] iPhone8Plus, [00000278BBEA0600][00000278BB1DEA80 49] iPhoneX, [00000278BBEC5200][00000278BB1E2C00 49] iPhoneXS, [00000278BBEA2400][00000278BB1E6D80 49] iPhoneXSMax, [00000278BBEC4700][00000278BB1EAF00 49] iPhoneXR, [00000278BBEA3100][00000278BB1EF080 49] iPhone11, [00000278BBEC6D00][00000278BB1F3200 49] iPhone11Pro, [00000278BBEA1800][00000278BB1F7380 49] iPhone11ProMax, [00000278BBEC6200][00000278BB1FB500 49] iPhoneSE2, [00000278BBEA3C00][00000278BB1FF680 49] iPhone12Mini, [00000278BBEC7100][00000278BB1BB7C0 49] iPhone12, [00000278BBEF3A00][00000278BB203900 49] iPhone12Pro, [00000278BBEA1700][00000278BB207A40 49] iPhone12ProMax, [00000278BBEF3C00][00000278BB20BB80 49] iPadPro105, [00000278BBEA0E00][00000278BC225D00 49] iPadPro129, [00000278BBEF2E00][00000278BC2281C0 49] iPadPro97, [00000278BBEA2200][00000278BC22C340 49] iPadPro2_129, [00000278BBEC5700][00000278BC2304C0 49] iPad5, [00000278BBEA3800][00000278BC234640 49] iPad6, [00000278BBEC5A00][00000278BC2387C0 49] iPad7, [00000278BBEA0D00][00000278BC23C940 49] iPad8, [00000278BBEC4C00][00000278BC240AC0 49] iPadPro11, [00000278BBEA0B00][00000278BC244C40 49] iPadPro2_11, [00000278BBEC6100][00000278BC248DC0 49] iPadPro3_129, [00000278BBEA0100][00000278BC24CF40 49] iPadPro4_129, [00000278BBEC7500][00000278BC2510C0 49] AppleTV, [00000278BBEA1100][00000278BC255240 49] AppleTV4K, [00000278BBEC4100][00000278BC2593C0 49] TVOS, [00000278BBEA0400][00000278BC25D540 49] Mac, [00000278BBEC6C00][00000278BC2616C0 49] MacClient, [00000278BBEA1500][00000278BC221800 49] MacNoEditor, [00000278BBEC5D00][00000278BC265940 49] MacServer, [00000278BBEA2600][00000278BC269A80 49] Linux, [00000278BBEC7D00][00000278BC26DBC0 49] LinuxAArch64, [00000278BBEA2100][00000278BC275D40 49] LinuxNoEditor, [00000278BBEC4E00][00000278BC278200 49] LinuxAArch64NoEditor, [00000278BBEA3D00][00000278BC27C380 49] LinuxClient, [00000278BBEC4B00][00000278BC280500 49] LinuxAArch64Client, [00000278BBEA3F00][00000278BC284680 49] LinuxServer, [00000278BBEC4A00][00000278BC288800 49] LinuxAArch64Server, [00000278BBEA0200][00000278BC28C980 49] Android, [00000278BBEC5C00][00000278BC290B00 49] Android_Low, [00000278BBEA3500][00000278BC294C80 49] Android_Mid, [00000278BBEC6000][00000278BC298E00 49] Android_High, [00000278BBEA2700][00000278BC29CF80 49] Android_Default, [00000278BBEC5900][00000278BC2A1100 49] Android_Adreno4xx, [00000278BBEA0A00][00000278BC2A5280 49] Android_Adreno5xx_Low, [00000278BBEC7B00][00000278BC2A9400 49] Android_Adreno5xx, [00000278BBEA0800][00000278BC2AD580 49] Android_Adreno6xx, [00000278BBEC5500][00000278BC2B1700 49] Android_Adreno6xx_Vulkan, [00000278BBEA2800][00000278BC2B5880 49] Android_Mali_T6xx, [00000278BBEC5600][00000278BC2719C0 49] Android_Mali_T7xx, [00000278BBEA1400][00000278BC2B9B00 49] Android_Mali_T8xx, [00000278BBEC5400][00000278BC2BDC40 49] Android_Mali_G71, [00000278BBEA0F00][00000278BC2C4100 49] Android_Mali_G72, [00000278BBEC4D00][00000278BC2C8280 49] Android_Mali_G72_Vulkan, [00000278BBEA2B00][00000278BC2CC400 49] Android_Mali_G76, [00000278BBEC5300][00000278BC2D0580 49] Android_Mali_G76_Vulkan, [00000278BBEA2900][00000278BC2D4700 49] Android_Mali_G77, [00000278BBE6EE00][00000278BC2D8880 49] Android_Mali_G77_Vulkan, [00000278BBEF3900][00000278BC2DCA00 49] Android_Vulkan_SM5, [00000278BBE6C800][00000278BC2E0B80 49] Android_PowerVR_G6xxx, [00000278BBEF1B00][00000278BC2E4D00 49] Android_PowerVR_GT7xxx, [00000278BBE6CD00][00000278BC2E8E80 49] Android_PowerVR_GE8xxx, [00000278BBEF3E00][00000278BC2ED000 49] Android_PowerVR_GM9xxx, [00000278BBE6C900][00000278BC2F1180 49] Android_PowerVR_GM9xxx_Vulkan, [00000278BBEF1D00][00000278BC2F5300 49] Android_TegraK1, [00000278BBE6CC00][00000278BC2F9480 49] Android_Unknown_Vulkan, [00000278BBEF0D00][00000278BC2FD600 49] Lumin, [00000278BBE6CF00][00000278BC301780 49] Lumin_Desktop, [00000278BBEF1700][00000278BC305900 49] HoloLens, 
+[2021.12.04-17.18.17:320][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.12.04-17.18.17:320][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.12.04-17.18.17:320][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.12.04-17.18.17:320][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.12.04-17.18.17:320][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.12.04-17.18.17:351][  0]LogNetVersion: FPS 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3141698484)
+[2021.12.04-17.18.17:967][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.12.04-17.18.18:048][  0]LogPackageLocalizationCache: Processed 23 localized package path(s) for 1 prioritized culture(s) in 0.079824 seconds
+[2021.12.04-17.18.18:053][  0]LogUObjectArray: 16832 objects as part of root set at end of initial load.
+[2021.12.04-17.18.18:053][  0]LogUObjectAllocator: 4209936 out of 0 bytes used by permanent object pool.
+[2021.12.04-17.18.18:053][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.12.04-17.18.18:788][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.12.04-17.18.18:797][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.12.04-17.18.19:291][  0]SourceControl: Source control is disabled
+[2021.12.04-17.18.19:292][  0]SourceControl: Source control is disabled
+[2021.12.04-17.18.19:337][  0]SourceControl: Source control is disabled
+[2021.12.04-17.18.19:351][  0]SourceControl: Source control is disabled
+[2021.12.04-17.18.19:364][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.12.04-17.18.19:379][  0]SourceControl: Source control is disabled
+[2021.12.04-17.18.19:434][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.04-17.18.19:434][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.04-17.18.19:579][  0]LogUProjectInfo: Found projects:
+[2021.12.04-17.18.19:705][  0]LogHoudiniEngine: Starting the Houdini Engine module...
+[2021.12.04-17.18.19:705][  0]LogHoudiniEngine: Failed locating or loading libHAPIL.dll
+[2021.12.04-17.18.19:706][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_default_material.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.12.04-17.18.19:841][  0]LogCollectionManager: Loaded 0 collections in 0.002302 seconds
+[2021.12.04-17.18.19:884][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Gunna/Desktop/Personal Projects/FPS/Saved/Collections/' took 0.00s
+[2021.12.04-17.18.19:884][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Gunna/Desktop/Personal Projects/FPS/Content/Developers/Gunna/Collections/' took 0.00s
+[2021.12.04-17.18.19:884][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Gunna/Desktop/Personal Projects/FPS/Content/Collections/' took 0.00s
+[2021.12.04-17.18.19:884][  0]LogOcInput: OculusInput pre-init called
+[2021.12.04-17.18.19:902][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.12.04-17.18.19:903][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.12.04-17.18.19:989][  0]LogEngine: Initializing Engine...
+[2021.12.04-17.18.19:990][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.04-17.18.19:990][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.12.04-17.18.19:991][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.12.04-17.18.20:116][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.12.04-17.18.20:130][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.12.04-17.18.20:157][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.12.04-17.18.20:166][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.12.04-17.18.20:166][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.12.04-17.18.20:166][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.04-17.18.20:166][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.04-17.18.20:166][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.04-17.18.20:166][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.04-17.18.20:166][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.04-17.18.20:166][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.04-17.18.20:166][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.04-17.18.20:166][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.04-17.18.20:166][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.04-17.18.20:166][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.04-17.18.20:201][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.04-17.18.20:201][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.12.04-17.18.20:733][  0]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2021.12.04-17.18.20:749][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.04-17.18.20:755][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.04-17.18.20:755][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.04-17.18.20:758][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.04-17.18.20:758][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.04-17.18.20:758][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.04-17.18.20:760][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.04-17.18.20:760][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.04-17.18.20:760][  0]LogInit: FAudioDevice initialized.
+[2021.12.04-17.18.20:761][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.12.04-17.18.20:761][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.12.04-17.18.20:821][  0]LogDerivedDataCache: Saved boot cache 0.06s 79MB C:/Users/Gunna/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.12.04-17.18.20:822][  0]LogInit: Texture streaming: Enabled
+[2021.12.04-17.18.20:854][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.12.04-17.18.20:874][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.12.04-17.18.20:874][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={A4F5AD5B-4BE8-D4E4-1345-A4B6324658CE}
+[2021.12.04-17.18.20:874][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.12.04-17.18.20:885][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.12.04-17.18.20:940][  0]LogInit: Transaction tracking system initialized
+[2021.12.04-17.18.20:997][  0]BlueprintLog: New page: Editor Load
+[2021.12.04-17.18.21:132][  0]LocalizationService: Localization service is disabled
+[2021.12.04-17.18.21:192][  0]TimingProfiler: Initialize
+[2021.12.04-17.18.21:192][  0]TimingProfiler: OnSessionChanged
+[2021.12.04-17.18.21:192][  0]LoadingProfiler: Initialize
+[2021.12.04-17.18.21:192][  0]LoadingProfiler: OnSessionChanged
+[2021.12.04-17.18.21:192][  0]NetworkingProfiler: Initialize
+[2021.12.04-17.18.21:192][  0]NetworkingProfiler: OnSessionChanged
+[2021.12.04-17.18.21:192][  0]MemoryProfiler: Initialize
+[2021.12.04-17.18.21:192][  0]MemoryProfiler: OnSessionChanged
+[2021.12.04-17.18.21:450][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.12.04-17.18.21:450][  0]LogCook: Display: Mobile HDR setting 1
+[2021.12.04-17.18.21:755][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Gunna/Desktop/Personal Projects/FPS/Content/' took 0.11s
+[2021.12.04-17.18.21:755][  0]LogHoudiniEngineEditor: Starting the Houdini Engine Editor module.
+[2021.12.04-17.18.21:762][  0]LogHoudiniEngineEditor: Houdini Spline Component Visualizer Registered!
+[2021.12.04-17.18.21:763][  0]LogHoudiniEngineEditor: Houdini Engine Editor module startup complete.
+[2021.12.04-17.18.22:034][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.12.04-17.18.22:041][  0]SourceControl: Source control is disabled
+[2021.12.04-17.18.22:041][  0]LogUnrealEdMisc: Loading editor; pre map load, took 12.915
+[2021.12.04-17.18.22:041][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Gunna/Desktop/Personal Projects/FPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.04-17.18.22:042][  0]LightingResults: New page: Lighting Build
+[2021.12.04-17.18.22:042][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-17.18.22:042][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-17.18.22:043][  0]MapCheck: New page: Map Check
+[2021.12.04-17.18.22:043][  0]LightingResults: New page: Lighting Build
+[2021.12.04-17.18.22:063][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.12.04-17.18.24:519][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonExampleMap'.
+[2021.12.04-17.18.24:523][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.12.04-17.18.24:619][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.04-17.18.24:656][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.12.04-17.18.24:657][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.04-17.18.24:657][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.21ms to complete.
+[2021.12.04-17.18.24:657][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 2.616
+[2021.12.04-17.18.24:659][  0]LogUnrealEdMisc: Total Editor Startup Time, took 15.533
+[2021.12.04-17.18.24:845][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-17.18.24:850][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-17.18.24:855][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-17.18.24:860][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-17.18.24:877][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0093 seconds. Added 3703 classes and 868 folders.
+[2021.12.04-17.18.24:882][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.12.04-17.18.24:884][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.04-17.18.24:885][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-17.18.24:885][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.04-17.18.24:885][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.12.04-17.18.24:886][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.04-17.18.24:886][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-17.18.24:886][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.04-17.18.24:886][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.12.04-17.18.24:887][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.12.04-17.18.24:887][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-17.18.24:887][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.12.04-17.18.24:887][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.12.04-17.18.24:889][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.04-17.18.24:889][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-17.18.24:889][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.04-17.18.24:889][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.12.04-17.18.24:890][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.04-17.18.24:890][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-17.18.24:890][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.04-17.18.24:890][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.12.04-17.18.24:891][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.04-17.18.24:891][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-17.18.24:891][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.04-17.18.24:891][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.12.04-17.18.24:892][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.04-17.18.24:892][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-17.18.24:892][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.04-17.18.24:892][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.12.04-17.18.24:893][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.04-17.18.24:893][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-17.18.24:894][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.04-17.18.24:894][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.12.04-17.18.24:895][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.04-17.18.24:895][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-17.18.24:895][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.04-17.18.24:895][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.12.04-17.18.24:896][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.04-17.18.24:896][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-17.18.24:896][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.04-17.18.24:896][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.12.04-17.18.24:897][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.04-17.18.24:897][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-17.18.24:897][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.04-17.18.24:897][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.12.04-17.18.24:898][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.04-17.18.24:898][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-17.18.24:898][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.04-17.18.24:898][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.12.04-17.18.24:899][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.04-17.18.24:899][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-17.18.24:899][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.04-17.18.24:899][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.12.04-17.18.24:900][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.04-17.18.24:900][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-17.18.24:900][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.04-17.18.24:900][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.12.04-17.18.24:901][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.04-17.18.24:901][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-17.18.24:901][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.04-17.18.24:901][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.12.04-17.18.24:902][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.04-17.18.24:902][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-17.18.24:902][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.04-17.18.24:902][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.12.04-17.18.24:903][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.04-17.18.24:903][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-17.18.24:903][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.04-17.18.24:903][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.12.04-17.18.24:904][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.04-17.18.24:904][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-17.18.24:904][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.04-17.18.24:904][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.12.04-17.18.24:905][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.04-17.18.24:905][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-17.18.24:905][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.04-17.18.24:905][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.12.04-17.18.24:905][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.04-17.18.24:905][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-17.18.24:906][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.04-17.18.24:906][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.12.04-17.18.24:906][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.04-17.18.24:906][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-17.18.24:906][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.04-17.18.24:906][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.12.04-17.18.24:907][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.04-17.18.24:907][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-17.18.24:907][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.04-17.18.24:907][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.12.04-17.18.24:908][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.12.04-17.18.24:908][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-17.18.24:908][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.12.04-17.18.24:908][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.12.04-17.18.24:909][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.04-17.18.24:909][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-17.18.24:909][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.04-17.18.24:909][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2021.12.04-17.18.24:910][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.04-17.18.24:910][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-17.18.24:910][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.04-17.18.24:910][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.12.04-17.18.24:911][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.04-17.18.24:911][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.04-17.18.24:911][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.04-17.18.24:911][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2021.12.04-17.18.25:001][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.12.04-17.18.25:002][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.12.04-17.18.25:064][  0]LogSlate: Took 0.000256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.12.04-17.18.25:066][  0]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.12.04-17.18.25:070][  0]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.12.04-17.18.25:189][  0]LogRenderer: Reallocating scene render targets to support 1168x688 Format 9 NumSamples 1 (Frame:1).
+[2021.12.04-17.18.25:732][  0]LogSlate: Took 0.000608 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.04-17.18.25:881][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.12.04-17.18.25:881][  0]LogLoad: (Engine Initialization) Total time: 16.76 seconds
+[2021.12.04-17.18.25:881][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.12.04-17.18.25:882][  0]LogInit: First time updating LLM stats...
+[2021.12.04-17.18.25:940][  0]LogAssetRegistry: Asset discovery search completed in 11.5752 seconds
+[2021.12.04-17.18.25:941][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2021.12.04-17.18.25:984][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.12.04-17.18.26:903][ 80]LogSlate: Took 0.000289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.04-17.18.36:512][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.12.04-17.18.37:296][999]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/DemoLevel/Sublevels/Wellspring.Wellspring
+[2021.12.04-17.18.37:296][999]Cmd: MAP LOAD FILE="../../../../../../Users/Gunna/Desktop/Personal Projects/FPS/Content/ThirdPersonBP/Maps/DemoLevel/Sublevels/Wellspring.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.04-17.18.37:296][999]LightingResults: New page: Lighting Build
+[2021.12.04-17.18.37:297][999]LoadErrors: New page: Loading map: Wellspring.umap
+[2021.12.04-17.18.37:302][999]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-17.18.37:303][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-17.18.37:303][999]MapCheck: New page: Map Check
+[2021.12.04-17.18.37:303][999]LightingResults: New page: Lighting Build
+[2021.12.04-17.18.37:335][999]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.04-17.18.37:369][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.12.04-17.18.37:370][999]LogAudio: Display: Audio Device (ID: 1) registered with world 'Wellspring'.
+[2021.12.04-17.18.37:567][999]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.04-17.18.37:567][999]LogAIModule: Creating AISystem for world Wellspring
+[2021.12.04-17.18.37:658][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.12.04-17.18.37:669][999]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.04-17.18.37:669][999]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.188ms to complete.
+[2021.12.04-17.18.37:669][999]LogFileHelpers: Loading map 'Wellspring' took 0.373
+[2021.12.04-17.18.41:320][384]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.12.04-17.19.02:669][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.12.04-17.19.06:638][604]LogSavePackage: Moving '../../../../../../Users/Gunna/Desktop/Personal Projects/FPS/Saved/Wellspring7F5EB8A446678F98B626DBA90F55D50E.tmp' to '../../../../../../Users/Gunna/Desktop/Personal Projects/FPS/Content/ThirdPersonBP/Maps/DemoLevel/Sublevels/Wellspring.umap'
+[2021.12.04-17.19.06:651][604]LogFileHelpers: No new changes to save!
+[2021.12.04-17.19.07:796][604]LogSavePackage: Moving '../../../../../../Users/Gunna/Desktop/Personal Projects/FPS/Saved/Wellspring_BuiltDataFD63A1A54B04AD1A81C01EB3F8B07317.tmp' to '../../../../../../Users/Gunna/Desktop/Personal Projects/FPS/Content/ThirdPersonBP/Maps/DemoLevel/Sublevels/Wellspring_BuiltData.uasset'
+[2021.12.04-17.19.07:856][604]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.04-17.19.07:856][604]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/DemoLevel/Sublevels/Wellspring.Wellspring
+[2021.12.04-17.19.07:856][604]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/DemoLevel/Sublevels/Wellspring_BuiltData.Wellspring_BuiltData
+[2021.12.04-17.19.17:266][426]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.12.04-17.19.17:382][426]LogShaderCompilers: Display: Worker (1/33): shaders left to compile 34
+[2021.12.04-17.19.17:382][426]LogShaderCompilers: Display: Worker (2/33): shaders left to compile 32
+[2021.12.04-17.19.17:382][426]LogShaderCompilers: Display: Worker (3/33): shaders left to compile 30
+[2021.12.04-17.19.17:382][426]LogShaderCompilers: Display: Worker (4/33): shaders left to compile 28
+[2021.12.04-17.19.17:382][426]LogShaderCompilers: Display: Worker (5/33): shaders left to compile 26
+[2021.12.04-17.19.17:382][426]LogShaderCompilers: Display: Worker (6/33): shaders left to compile 24
+[2021.12.04-17.19.17:382][426]LogShaderCompilers: Display: Worker (7/33): shaders left to compile 22
+[2021.12.04-17.19.17:382][426]LogShaderCompilers: Display: Worker (8/33): shaders left to compile 20
+[2021.12.04-17.19.17:382][426]LogShaderCompilers: Display: Worker (9/33): shaders left to compile 18
+[2021.12.04-17.19.17:382][426]LogShaderCompilers: Display: Worker (10/33): shaders left to compile 16
+[2021.12.04-17.19.17:382][426]LogShaderCompilers: Display: Worker (11/33): shaders left to compile 14
+[2021.12.04-17.19.17:382][426]LogShaderCompilers: Display: Worker (12/33): shaders left to compile 12
+[2021.12.04-17.19.17:382][426]LogShaderCompilers: Display: Worker (13/33): shaders left to compile 10
+[2021.12.04-17.19.17:382][426]LogShaderCompilers: Display: Worker (14/33): shaders left to compile 8
+[2021.12.04-17.19.17:382][426]LogShaderCompilers: Display: Worker (15/33): shaders left to compile 6
+[2021.12.04-17.19.17:382][426]LogShaderCompilers: Display: Worker (16/33): shaders left to compile 4
+[2021.12.04-17.19.17:382][426]LogShaderCompilers: Display: Worker (17/33): shaders left to compile 2
+[2021.12.04-17.19.19:305][551]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/Weapons/Auto-Bolter/Auto-BolterProjectile.Auto-BolterProjectile
+[2021.12.04-17.19.19:480][551]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.12.04-17.19.20:404][551]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.12.04-17.19.20:465][552]LogSlate: Took 0.000280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.12.04-17.19.32:456][794]BlueprintLog: New page: Compile Auto-BolterProjectile
+[2021.12.04-17.19.32:525][794]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.12.04-17.19.32:681][794]LogSavePackage: Moving '../../../../../../Users/Gunna/Desktop/Personal Projects/FPS/Saved/Auto-BolterProjectile99E83F91497BAA7AE81868B14A3BA2BA.tmp' to '../../../../../../Users/Gunna/Desktop/Personal Projects/FPS/Content/FirstPersonBP/Blueprints/Weapons/Auto-Bolter/Auto-BolterProjectile.uasset'
+[2021.12.04-17.19.32:719][794]AssetCheck: New page: Asset Save: Auto-BolterProjectile
+[2021.12.04-17.19.32:719][794]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/Weapons/Auto-Bolter/Auto-BolterProjectile.Auto-BolterProjectile
+[2021.12.04-17.19.32:764][794]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.12.04-17.19.35:883][109]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.04-17.19.35:898][109]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.04-17.19.35:899][109]PIE: New page: PIE session: Wellspring (Dec 4, 2021, 7:19:35 AM)
+[2021.12.04-17.19.35:900][109]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.12.04-17.19.35:902][109]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.12.04-17.19.35:902][109]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/DemoLevel/Sublevels/UEDPIE_0_Wellspring
+[2021.12.04-17.19.35:993][109]LogPlayLevel: PIE: StaticDuplicateObject took: (0.091868s)
+[2021.12.04-17.19.35:995][109]LogAIModule: Creating AISystem for world Wellspring
+[2021.12.04-17.19.35:995][109]LogPlayLevel: PIE: World Init took: (0.001571s)
+[2021.12.04-17.19.35:995][109]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/DemoLevel/Sublevels/Wellspring.Wellspring to /Game/ThirdPersonBP/Maps/DemoLevel/Sublevels/UEDPIE_0_Wellspring.Wellspring (0.093646s)
+[2021.12.04-17.19.36:045][109]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.12.04-17.19.36:046][109]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.12.04-17.19.36:046][109]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.04-17.19.36:046][109]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.04-17.19.36:046][109]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.04-17.19.36:046][109]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.04-17.19.36:046][109]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.04-17.19.36:046][109]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.04-17.19.36:046][109]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.04-17.19.36:046][109]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.04-17.19.36:047][109]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.04-17.19.36:047][109]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.04-17.19.36:062][109]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.04-17.19.36:062][109]LogAudioMixer: Display: 1: FrontRight
+[2021.12.04-17.19.36:258][109]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2021.12.04-17.19.36:258][109]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.04-17.19.36:258][109]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.04-17.19.36:258][109]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.04-17.19.36:259][109]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.04-17.19.36:259][109]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.04-17.19.36:259][109]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.04-17.19.36:287][109]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.04-17.19.36:287][109]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.04-17.19.36:287][109]LogInit: FAudioDevice initialized.
+[2021.12.04-17.19.36:287][109]LogAudio: Display: Audio Device (ID: 2) registered with world 'Wellspring'.
+[2021.12.04-17.19.36:303][109]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.04-17.19.36:417][109]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/DemoLevel/Sublevels/UEDPIE_0_Wellspring.Wellspring up for play (max tick rate 0) at 2021.12.04-12.19.36
+[2021.12.04-17.19.36:419][109]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_0] BT_Assault_AI
+[2021.12.04-17.19.36:420][109]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_1] BerzerkerAI
+[2021.12.04-17.19.36:421][109]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_2] BT_Assault_AI
+[2021.12.04-17.19.36:421][109]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_3] BT_Assault_AI
+[2021.12.04-17.19.36:422][109]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_4] BT_Assault_AI
+[2021.12.04-17.19.36:423][109]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_5] BT_Assault_AI
+[2021.12.04-17.19.36:423][109]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_6] BT_Assault_AI
+[2021.12.04-17.19.36:424][109]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_7] BT_Assault_AI
+[2021.12.04-17.19.36:425][109]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_8] BT_Assault_AI
+[2021.12.04-17.19.36:425][109]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_9] BT_Assault_AI
+[2021.12.04-17.19.36:426][109]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_10] BT_Assault_AI
+[2021.12.04-17.19.36:426][109]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_11] BT_Assault_AI
+[2021.12.04-17.19.36:427][109]LogWorld: Bringing up level for play took: 0.122471
+[2021.12.04-17.19.36:427][109]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.12.04-17.19.36:430][109]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.12.04-17.19.36:437][109]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.12.04-17.19.36:444][109]PIE: Server logged in
+[2021.12.04-17.19.36:446][109]PIE: Play in editor total start time 0.552 seconds.
+[2021.12.04-17.19.36:458][109]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_3] AI: I see Player and can shoot
+[2021.12.04-17.19.37:426][142]LogBlueprintUserMessages: [PlayerCharacter_C_0] 950.0
+[2021.12.04-17.19.37:920][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-17.19.37:920][176]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/DemoLevel/Sublevels/UEDPIE_0_Wellspring
+[2021.12.04-17.19.37:921][176]LogWorld: UWorld::CleanupWorld for Wellspring, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-17.19.37:929][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-17.19.37:946][176]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.04-17.19.37:977][176]LogNiagaraEditor: onPieEnd
+[2021.12.04-17.19.37:986][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-17.19.38:039][176]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.04-17.19.38:050][176]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-17.19.38:051][176]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-17.19.38:090][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-17.19.38:140][176]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2021.12.04-17.19.38:207][177]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.12.04-17.19.42:067][553]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.04-17.19.42:083][553]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.04-17.19.42:083][553]PIE: New page: PIE session: Wellspring (Dec 4, 2021, 7:19:42 AM)
+[2021.12.04-17.19.42:123][553]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/DemoLevel/Sublevels/UEDPIE_0_Wellspring
+[2021.12.04-17.19.42:224][553]LogPlayLevel: PIE: StaticDuplicateObject took: (0.101737s)
+[2021.12.04-17.19.42:226][553]LogAIModule: Creating AISystem for world Wellspring
+[2021.12.04-17.19.42:226][553]LogPlayLevel: PIE: World Init took: (0.001545s)
+[2021.12.04-17.19.42:226][553]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/DemoLevel/Sublevels/Wellspring.Wellspring to /Game/ThirdPersonBP/Maps/DemoLevel/Sublevels/UEDPIE_0_Wellspring.Wellspring (0.103556s)
+[2021.12.04-17.19.42:280][553]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.12.04-17.19.42:284][553]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.12.04-17.19.42:284][553]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.04-17.19.42:284][553]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.04-17.19.42:284][553]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.04-17.19.42:284][553]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.04-17.19.42:284][553]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.04-17.19.42:284][553]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.04-17.19.42:284][553]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.04-17.19.42:284][553]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.04-17.19.42:285][553]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.04-17.19.42:285][553]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.04-17.19.42:300][553]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.04-17.19.42:300][553]LogAudioMixer: Display: 1: FrontRight
+[2021.12.04-17.19.42:479][553]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2021.12.04-17.19.42:480][553]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.04-17.19.42:480][553]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.04-17.19.42:480][553]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.04-17.19.42:481][553]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.04-17.19.42:481][553]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.04-17.19.42:481][553]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.04-17.19.42:507][553]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.04-17.19.42:507][553]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.04-17.19.42:507][553]LogInit: FAudioDevice initialized.
+[2021.12.04-17.19.42:507][553]LogAudio: Display: Audio Device (ID: 3) registered with world 'Wellspring'.
+[2021.12.04-17.19.42:521][553]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.04-17.19.42:678][553]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/DemoLevel/Sublevels/UEDPIE_0_Wellspring.Wellspring up for play (max tick rate 0) at 2021.12.04-12.19.42
+[2021.12.04-17.19.42:680][553]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_0] BT_Assault_AI
+[2021.12.04-17.19.42:682][553]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_1] BerzerkerAI
+[2021.12.04-17.19.42:683][553]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_2] BT_Assault_AI
+[2021.12.04-17.19.42:684][553]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_3] BT_Assault_AI
+[2021.12.04-17.19.42:686][553]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_4] BT_Assault_AI
+[2021.12.04-17.19.42:688][553]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_5] BT_Assault_AI
+[2021.12.04-17.19.42:689][553]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_6] BT_Assault_AI
+[2021.12.04-17.19.42:690][553]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_7] BT_Assault_AI
+[2021.12.04-17.19.42:692][553]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_8] BT_Assault_AI
+[2021.12.04-17.19.42:694][553]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_9] BT_Assault_AI
+[2021.12.04-17.19.42:695][553]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_10] BT_Assault_AI
+[2021.12.04-17.19.42:697][553]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_11] BT_Assault_AI
+[2021.12.04-17.19.42:699][553]LogWorld: Bringing up level for play took: 0.177706
+[2021.12.04-17.19.42:699][553]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.12.04-17.19.42:704][553]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.12.04-17.19.42:709][553]PIE: Server logged in
+[2021.12.04-17.19.42:710][553]PIE: Play in editor total start time 0.633 seconds.
+[2021.12.04-17.19.44:884][701]Cmd: LevelEditor.ToggleImmersive
+[2021.12.04-17.19.45:113][702]LogRenderer: Reallocating scene render targets to support 1536x900 Format 9 NumSamples 1 (Frame:150).
+[2021.12.04-17.19.45:182][703]LogRenderer: Reallocating scene render targets to support 1860x1080 Format 9 NumSamples 1 (Frame:152).
+[2021.12.04-17.19.50:950][163]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_10] AI: I see Player and can shoot
+[2021.12.04-17.19.51:592][203]LogBlueprintUserMessages: [PlayerCharacter_C_0] 988.0
+[2021.12.04-17.19.51:851][222]LogBlueprintUserMessages: [PlayerCharacter_C_0] 976.0
+[2021.12.04-17.19.52:105][240]LogBlueprintUserMessages: [PlayerCharacter_C_0] 964.0
+[2021.12.04-17.19.52:821][284]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_11] AI: I see Player and can shoot
+[2021.12.04-17.19.53:736][336]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_4] AI: I see Player and can shoot
+[2021.12.04-17.19.53:967][349]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_3] AI: I see Player and can shoot
+[2021.12.04-17.19.54:202][361]LogBlueprintUserMessages: [PlayerCharacter_C_0] 914.0
+[2021.12.04-17.19.54:470][375]LogBlueprintUserMessages: [PlayerCharacter_C_0] 864.0
+[2021.12.04-17.19.55:104][409]LogBlueprintUserMessages: [PlayerCharacter_C_0] 852.0
+[2021.12.04-17.19.55:264][419]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_9] AI: I see Player and can shoot
+[2021.12.04-17.19.55:319][422]LogBlueprintUserMessages: [PlayerCharacter_C_0] 840.0
+[2021.12.04-17.19.55:552][435]LogBlueprintUserMessages: [PlayerCharacter_C_0] 828.0
+[2021.12.04-17.19.55:765][445]LogBlueprintUserMessages: [PlayerCharacter_C_0] 816.0
+[2021.12.04-17.19.56:434][481]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_9] AI: i dont see Player and cant shoot
+[2021.12.04-17.19.56:523][485]LogBlueprintUserMessages: [PlayerCharacter_C_0] 804.0
+[2021.12.04-17.19.56:795][499]LogBlueprintUserMessages: [PlayerCharacter_C_0] 792.0
+[2021.12.04-17.19.56:841][501]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_4] AI: i dont see Player and cant shoot
+[2021.12.04-17.19.56:982][509]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_3] AI: i dont see Player and cant shoot
+[2021.12.04-17.19.57:006][510]LogBlueprintUserMessages: [PlayerCharacter_C_0] 780.0
+[2021.12.04-17.19.57:050][512]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_9] AI: I see Player and can shoot
+[2021.12.04-17.19.57:224][521]LogBlueprintUserMessages: [PlayerCharacter_C_0] 768.0
+[2021.12.04-17.19.57:370][528]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_11] AI: i dont see Player and cant shoot
+[2021.12.04-17.19.57:473][532]LogBlueprintUserMessages: [PlayerCharacter_C_0] 756.0
+[2021.12.04-17.19.57:685][543]LogBlueprintUserMessages: [PlayerCharacter_C_0] 744.0
+[2021.12.04-17.19.57:928][557]LogBlueprintUserMessages: [PlayerCharacter_C_0] 732.0
+[2021.12.04-17.19.58:235][572]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_11] AI: I see Player and can shoot
+[2021.12.04-17.19.58:253][573]LogBlueprintUserMessages: [PlayerCharacter_C_0] 720.0
+[2021.12.04-17.19.58:498][587]LogBlueprintUserMessages: [PlayerCharacter_C_0] 708.0
+[2021.12.04-17.19.58:767][600]LogBlueprintUserMessages: [PlayerCharacter_C_0] 696.0
+[2021.12.04-17.19.59:004][609]LogBlueprintUserMessages: [PlayerCharacter_C_0] 684.0
+[2021.12.04-17.19.59:236][619]LogBlueprintUserMessages: [PlayerCharacter_C_0] 672.0
+[2021.12.04-17.19.59:338][622]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_4] AI: I see Player and can shoot
+[2021.12.04-17.19.59:414][624]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_3] AI: I see Player and can shoot
+[2021.12.04-17.19.59:463][626]LogBlueprintUserMessages: [PlayerCharacter_C_0] 660.0
+[2021.12.04-17.19.59:719][636]LogBlueprintUserMessages: [PlayerCharacter_C_0] 648.0
+[2021.12.04-17.19.59:757][637]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_3] AI: i dont see Player and cant shoot
+[2021.12.04-17.19.59:809][638]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_4] AI: i dont see Player and cant shoot
+[2021.12.04-17.19.59:935][643]LogBlueprintUserMessages: [PlayerCharacter_C_0] 636.0
+[2021.12.04-17.20.00:049][647]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_3] AI: I see Player and can shoot
+[2021.12.04-17.20.00:098][649]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_7] AI: I see Player and can shoot
+[2021.12.04-17.20.00:127][650]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_4] AI: I see Player and can shoot
+[2021.12.04-17.20.00:174][652]LogBlueprintUserMessages: [PlayerCharacter_C_0] 624.0
+[2021.12.04-17.20.00:303][653]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_9] AI: i dont see Player and cant shoot
+[2021.12.04-17.20.00:303][653]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_11] AI: i dont see Player and cant shoot
+[2021.12.04-17.20.00:494][657]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_9] AI: I see Player and can shoot
+[2021.12.04-17.20.00:530][658]LogBlueprintUserMessages: [PlayerCharacter_C_0] 892.0
+[2021.12.04-17.20.00:535][658]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_11] AI: I see Player and can shoot
+[2021.12.04-17.20.00:753][663]LogBlueprintUserMessages: [PlayerCharacter_C_0] 880.0
+[2021.12.04-17.20.00:957][668]LogBlueprintUserMessages: [PlayerCharacter_C_0] 868.0
+[2021.12.04-17.20.01:183][673]LogBlueprintUserMessages: [PlayerCharacter_C_0] 856.0
+[2021.12.04-17.20.01:271][675]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_4] AI: i dont see Player and cant shoot
+[2021.12.04-17.20.01:311][676]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_7] AI: i dont see Player and cant shoot
+[2021.12.04-17.20.01:344][677]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_3] AI: i dont see Player and cant shoot
+[2021.12.04-17.20.01:422][679]LogBlueprintUserMessages: [PlayerCharacter_C_0] 844.0
+[2021.12.04-17.20.01:473][680]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_4] AI: I see Player and can shoot
+[2021.12.04-17.20.01:644][685]LogBlueprintUserMessages: [PlayerCharacter_C_0] 832.0
+[2021.12.04-17.20.01:711][687]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_7] AI: I see Player and can shoot
+[2021.12.04-17.20.01:856][693]LogBlueprintUserMessages: [PlayerCharacter_C_0] 820.0
+[2021.12.04-17.20.02:144][704]LogBlueprintUserMessages: [PlayerCharacter_C_0] 808.0
+[2021.12.04-17.20.02:264][709]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_3] AI: I see Player and can shoot
+[2021.12.04-17.20.02:369][714]LogBlueprintUserMessages: [PlayerCharacter_C_0] 796.0
+[2021.12.04-17.20.02:632][726]LogBlueprintUserMessages: [PlayerCharacter_C_0] 784.0
+[2021.12.04-17.20.02:850][734]LogBlueprintUserMessages: [PlayerCharacter_C_0] 772.0
+[2021.12.04-17.20.02:988][739]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_7] AI: i dont see Player and cant shoot
+[2021.12.04-17.20.03:061][743]LogBlueprintUserMessages: [PlayerCharacter_C_0] 760.0
+[2021.12.04-17.20.03:184][749]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_7] AI: I see Player and can shoot
+[2021.12.04-17.20.03:299][756]LogBlueprintUserMessages: [PlayerCharacter_C_0] 748.0
+[2021.12.04-17.20.03:823][782]LogBlueprintUserMessages: [PlayerCharacter_C_0] 736.0
+[2021.12.04-17.20.04:044][792]LogBlueprintUserMessages: [PlayerCharacter_C_0] 724.0
+[2021.12.04-17.20.04:291][801]LogBlueprintUserMessages: [PlayerCharacter_C_0] 712.0
+[2021.12.04-17.20.04:495][809]LogBlueprintUserMessages: [PlayerCharacter_C_0] 700.0
+[2021.12.04-17.20.04:615][814]LogCharacter: PlayerCharacter_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2021.12.04-17.20.04:717][817]LogBlueprintUserMessages: [PlayerCharacter_C_0] 650.0
+[2021.12.04-17.20.04:827][820]LogBlueprintUserMessages: [PlayerCharacter_C_0] 550.0
+[2021.12.04-17.20.04:929][823]LogBlueprintUserMessages: [PlayerCharacter_C_0] 638.0
+[2021.12.04-17.20.05:248][829]LogBlueprintUserMessages: [PlayerCharacter_C_0] 826.0
+[2021.12.04-17.20.05:336][831]LogBlueprintUserMessages: [PlayerCharacter_C_0] On Cooldown
+[2021.12.04-17.20.05:396][832]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_2] AI: I see Player and can shoot
+[2021.12.04-17.20.05:495][835]LogBlueprintUserMessages: [PlayerCharacter_C_0] 874.0
+[2021.12.04-17.20.05:735][843]LogBlueprintUserMessages: [PlayerCharacter_C_0] 862.0
+[2021.12.04-17.20.05:753][843]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_3] AI: i dont see Player and cant shoot
+[2021.12.04-17.20.05:815][846]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_4] AI: i dont see Player and cant shoot
+[2021.12.04-17.20.05:833][847]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_10] AI: i dont see Player and cant shoot
+[2021.12.04-17.20.05:880][849]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_2] AI: i dont see Player and cant shoot
+[2021.12.04-17.20.05:881][849]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_3] AI: I see Player and can shoot
+[2021.12.04-17.20.05:968][852]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_10] AI: I see Player and can shoot
+[2021.12.04-17.20.06:010][853]LogBlueprintUserMessages: [PlayerCharacter_C_0] 850.0
+[2021.12.04-17.20.06:218][859]LogBlueprintUserMessages: [PlayerCharacter_C_0] 838.0
+[2021.12.04-17.20.06:438][867]LogBlueprintUserMessages: [PlayerCharacter_C_0] 826.0
+[2021.12.04-17.20.06:638][874]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_4] AI: I see Player and can shoot
+[2021.12.04-17.20.06:684][876]LogBlueprintUserMessages: [PlayerCharacter_C_0] 814.0
+[2021.12.04-17.20.06:935][884]LogBlueprintUserMessages: [PlayerCharacter_C_0] 802.0
+[2021.12.04-17.20.07:136][890]LogBlueprintUserMessages: [PlayerCharacter_C_0] 752.0
+[2021.12.04-17.20.07:337][897]LogBlueprintUserMessages: [PlayerCharacter_C_0] 740.0
+[2021.12.04-17.20.07:619][908]LogBlueprintUserMessages: [PlayerCharacter_C_0] 728.0
+[2021.12.04-17.20.07:646][909]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_2] AI: I see Player and can shoot
+[2021.12.04-17.20.07:823][916]LogBlueprintUserMessages: [PlayerCharacter_C_0] 716.0
+[2021.12.04-17.20.08:026][922]LogBlueprintUserMessages: [PlayerCharacter_C_0] 704.0
+[2021.12.04-17.20.08:306][929]LogBlueprintUserMessages: [PlayerCharacter_C_0] 692.0
+[2021.12.04-17.20.08:526][937]LogBlueprintUserMessages: [PlayerCharacter_C_0] 680.0
+[2021.12.04-17.20.08:777][947]LogBlueprintUserMessages: [PlayerCharacter_C_0] 668.0
+[2021.12.04-17.20.08:984][957]LogBlueprintUserMessages: [PlayerCharacter_C_0] 656.0
+[2021.12.04-17.20.09:211][964]LogBlueprintUserMessages: [PlayerCharacter_C_0] 644.0
+[2021.12.04-17.20.09:220][964]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_0] AI: I see Player and can shoot
+[2021.12.04-17.20.09:429][971]LogBlueprintUserMessages: [PlayerCharacter_C_0] 632.0
+[2021.12.04-17.20.09:718][981]LogBlueprintUserMessages: [PlayerCharacter_C_0] 620.0
+[2021.12.04-17.20.09:935][987]LogBlueprintUserMessages: [PlayerCharacter_C_0] 570.0
+[2021.12.04-17.20.10:007][989]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_0] AI: i dont see Player and cant shoot
+[2021.12.04-17.20.10:170][995]LogBlueprintUserMessages: [PlayerCharacter_C_0] 558.0
+[2021.12.04-17.20.10:236][998]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_3] AI: i dont see Player and cant shoot
+[2021.12.04-17.20.10:394][  6]LogBlueprintUserMessages: [PlayerCharacter_C_0] 546.0
+[2021.12.04-17.20.10:400][  6]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_2] AI: i dont see Player and cant shoot
+[2021.12.04-17.20.10:448][  9]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_3] AI: I see Player and can shoot
+[2021.12.04-17.20.10:640][ 19]LogBlueprintUserMessages: [PlayerCharacter_C_0] 534.0
+[2021.12.04-17.20.10:644][ 19]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_4] AI: i dont see Player and cant shoot
+[2021.12.04-17.20.10:851][ 30]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_2] AI: I see Player and can shoot
+[2021.12.04-17.20.10:905][ 33]LogBlueprintUserMessages: [PlayerCharacter_C_0] 484.0
+[2021.12.04-17.20.11:432][ 53]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_3] AI: i dont see Player and cant shoot
+[2021.12.04-17.20.11:656][ 62]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_3] AI: I see Player and can shoot
+[2021.12.04-17.20.11:868][ 73]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_3] AI: i dont see Player and cant shoot
+[2021.12.04-17.20.11:893][ 74]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_4] AI: I see Player and can shoot
+[2021.12.04-17.20.11:967][ 78]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_2] AI: i dont see Player and cant shoot
+[2021.12.04-17.20.12:054][ 83]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_3] AI: I see Player and can shoot
+[2021.12.04-17.20.12:102][ 86]LogBlueprintUserMessages: [PlayerCharacter_C_0] 472.0
+[2021.12.04-17.20.12:346][ 99]LogBlueprintUserMessages: [PlayerCharacter_C_0] 460.0
+[2021.12.04-17.20.12:426][103]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_0] AI: I see Player and can shoot
+[2021.12.04-17.20.12:588][113]LogBlueprintUserMessages: [PlayerCharacter_C_0] 448.0
+[2021.12.04-17.20.12:793][122]LogBlueprintUserMessages: [PlayerCharacter_C_0] 436.0
+[2021.12.04-17.20.13:029][130]LogBlueprintUserMessages: [PlayerCharacter_C_0] 424.0
+[2021.12.04-17.20.13:071][131]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_3] AI: i dont see Player and cant shoot
+[2021.12.04-17.20.13:238][136]LogBlueprintUserMessages: [PlayerCharacter_C_0] 412.0
+[2021.12.04-17.20.13:259][137]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_3] AI: I see Player and can shoot
+[2021.12.04-17.20.13:459][147]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_2] AI: I see Player and can shoot
+[2021.12.04-17.20.13:512][150]LogBlueprintUserMessages: [PlayerCharacter_C_0] 400.0
+[2021.12.04-17.20.13:552][152]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_0] AI: i dont see Player and cant shoot
+[2021.12.04-17.20.13:653][158]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_3] AI: i dont see Player and cant shoot
+[2021.12.04-17.20.13:753][162]LogBlueprintUserMessages: [PlayerCharacter_C_0] 350.0
+[2021.12.04-17.20.13:814][163]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_2] AI: i dont see Player and cant shoot
+[2021.12.04-17.20.13:869][165]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_3] AI: I see Player and can shoot
+[2021.12.04-17.20.14:015][173]LogBlueprintUserMessages: [PlayerCharacter_C_0] 338.0
+[2021.12.04-17.20.14:236][189]LogBlueprintUserMessages: [PlayerCharacter_C_0] 326.0
+[2021.12.04-17.20.15:264][264]LogBlueprintUserMessages: [PlayerCharacter_C_0] 276.0
+[2021.12.04-17.20.15:887][304]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_2] AI: I see Player and can shoot
+[2021.12.04-17.20.16:078][317]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_3] AI: i dont see Player and cant shoot
+[2021.12.04-17.20.16:232][325]LogBlueprintUserMessages: [PlayerCharacter_C_0] 264.0
+[2021.12.04-17.20.16:319][328]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_3] AI: I see Player and can shoot
+[2021.12.04-17.20.16:556][336]LogBlueprintUserMessages: [PlayerCharacter_C_0] 252.0
+[2021.12.04-17.20.16:802][347]LogBlueprintUserMessages: [PlayerCharacter_C_0] 202.0
+[2021.12.04-17.20.17:053][361]LogBlueprintUserMessages: [PlayerCharacter_C_0] 190.0
+[2021.12.04-17.20.17:056][361]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_0] AI: I see Player and can shoot
+[2021.12.04-17.20.17:265][373]LogBlueprintUserMessages: [PlayerCharacter_C_0] 178.0
+[2021.12.04-17.20.17:403][379]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_0] AI: i dont see Player and cant shoot
+[2021.12.04-17.20.17:441][381]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_3] AI: i dont see Player and cant shoot
+[2021.12.04-17.20.17:483][384]LogBlueprintUserMessages: [PlayerCharacter_C_0] 166.0
+[2021.12.04-17.20.17:728][396]LogBlueprintUserMessages: [PlayerCharacter_C_0] 154.0
+[2021.12.04-17.20.18:170][416]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_3] AI: I see Player and can shoot
+[2021.12.04-17.20.18:668][440]LogBlueprintUserMessages: [PlayerCharacter_C_0] 104.0
+[2021.12.04-17.20.20:275][531]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_4] AI: i dont see Player and cant shoot
+[2021.12.04-17.20.20:600][541]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_4] AI: I see Player and can shoot
+[2021.12.04-17.20.21:059][567]LogBlueprintUserMessages: [PlayerCharacter_C_0] 54.0
+[2021.12.04-17.20.21:822][603]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_2] AI: i dont see Player and cant shoot
+[2021.12.04-17.20.22:176][620]LogBlueprintUserMessages: [PlayerCharacter_C_0] 4.0
+[2021.12.04-17.20.22:178][620]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_0] AI: I see Player and can shoot
+[2021.12.04-17.20.22:217][622]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_2] AI: I see Player and can shoot
+[2021.12.04-17.20.22:635][637]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_4] AI: i dont see Player and cant shoot
+[2021.12.04-17.20.22:681][638]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_3] AI: i dont see Player and cant shoot
+[2021.12.04-17.20.22:903][641]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_4] AI: I see Player and can shoot
+[2021.12.04-17.20.22:927][642]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_3] AI: I see Player and can shoot
+[2021.12.04-17.20.23:362][668]LogBlueprintUserMessages: [PlayerCharacter_C_0] -46.0
+[2021.12.04-17.20.23:824][695]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_5] AI: I see Player and can shoot
+[2021.12.04-17.20.24:294][727]LogBlueprintUserMessages: [PlayerCharacter_C_0] -96.0
+[2021.12.04-17.20.24:883][761]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_2] AI: i dont see Player and cant shoot
+[2021.12.04-17.20.24:913][763]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_4] AI: i dont see Player and cant shoot
+[2021.12.04-17.20.24:993][768]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_0] AI: i dont see Player and cant shoot
+[2021.12.04-17.20.25:132][776]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_2] AI: I see Player and can shoot
+[2021.12.04-17.20.25:132][776]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_5] AI: i dont see Player and cant shoot
+[2021.12.04-17.20.25:170][778]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_4] AI: I see Player and can shoot
+[2021.12.04-17.20.25:211][780]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_0] AI: I see Player and can shoot
+[2021.12.04-17.20.25:673][798]LogBlueprintUserMessages: [PlayerCharacter_C_0] -146.0
+[2021.12.04-17.20.26:120][816]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_5] AI: I see Player and can shoot
+[2021.12.04-17.20.26:599][848]LogBlueprintUserMessages: [PlayerCharacter_C_0] -196.0
+[2021.12.04-17.20.26:849][866]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_5] AI: i dont see Player and cant shoot
+[2021.12.04-17.20.27:408][900]LogBlueprintUserMessages: [PlayerCharacter_C_0] -246.0
+[2021.12.04-17.20.27:630][908]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_0] AI: i dont see Player and cant shoot
+[2021.12.04-17.20.27:704][910]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_2] AI: i dont see Player and cant shoot
+[2021.12.04-17.20.27:818][915]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_0] AI: I see Player and can shoot
+[2021.12.04-17.20.27:910][918]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_2] AI: I see Player and can shoot
+[2021.12.04-17.20.28:003][921]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_0] AI: i dont see Player and cant shoot
+[2021.12.04-17.20.28:105][926]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_0] AI: I see Player and can shoot
+[2021.12.04-17.20.28:105][926]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_4] AI: i dont see Player and cant shoot
+[2021.12.04-17.20.28:159][928]LogBlueprintUserMessages: [BP_ShooterAI_Controller_C_4] AI: I see Player and can shoot
+[2021.12.04-17.20.28:268][930]LogOutputDevice: Warning: 
+
+Script Stack (2 frames):
+SlagProjectile_C.ExecuteUbergraph_SlagProjectile
+SlagProjectile_C.ReceiveHit
+
+[2021.12.04-17.20.28:268][930]LogWindows: Windows GetLastError: The operation completed successfully. (0)
