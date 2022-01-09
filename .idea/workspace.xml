@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2708bee-bc4c-4476-85ee-21cee33faf00" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Anthony_Olson_PlsDontTouch/BP_RockPile.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Anthony_Olson_PlsDontTouch/Foliage/Landscape_Grass.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Anthony_Olson_PlsDontTouch/Foliage/SM_monstera_2_FoliageType.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Anthony_Olson_PlsDontTouch/Foliage/SM_monstera_3_FoliageType.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Anthony_Olson_PlsDontTouch/Foliage/SM_pink_cordyline_1_FoliageType.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Anthony_Olson_PlsDontTouch/Foliage/SM_red_ginger_3_FoliageType.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Anthony_Olson_PlsDontTouch/Grass_Blend_LayerInfo.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Anthony_Olson_PlsDontTouch/Ground_LayerInfo.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Anthony_Olson_PlsDontTouch/Props/BP_Ruins_1.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Anthony_Olson_PlsDontTouch/animatedLava_Master_MAT_LavaPool.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/FirstPersonBP/Animations/CustomAnimations/FPS_AnimBP.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FPS Backup - Copy/Intermediate/CachedAssetRegistry.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FPS Backup - Copy/Saved/AutoScreenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FPS Backup - Copy/Saved/Config/CrashReportClient/UE4CC-Windows-16AEF805495374B4D2DE408B077FD22B/CrashReportClient.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FPS Backup - Copy/Saved/Config/CrashReportClient/UE4CC-Windows-4EA9B67E41D60823AD0C7485890E2B20/CrashReportClient.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FPS Backup - Copy/Saved/Config/CrashReportClient/UE4CC-Windows-B47E91334D241630F41BAE8CDBF4BF3A/CrashReportClient.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FPS Backup - Copy/Saved/Config/Windows/Editor.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FPS Backup - Copy/Saved/Config/Windows/EditorPerProjectUserSettings.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FPS Backup - Copy/Saved/Crashes/UE4CC-Windows-4EA9B67E41D60823AD0C7485890E2B20_0000/CrashContext.runtime-xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FPS Backup - Copy/Saved/Crashes/UE4CC-Windows-4EA9B67E41D60823AD0C7485890E2B20_0000/CrashReportClient.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FPS Backup - Copy/Saved/Crashes/UE4CC-Windows-4EA9B67E41D60823AD0C7485890E2B20_0000/FPS.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FPS Backup - Copy/Saved/Crashes/UE4CC-Windows-4EA9B67E41D60823AD0C7485890E2B20_0000/UE4Minidump.dmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FPS Backup - Copy/Saved/Logs/FPS-backup-2022.01.08-23.36.30.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FPS Backup - Copy/Saved/Logs/FPS-backup-2022.01.08-23.50.13.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FPS Backup - Copy/Saved/Logs/FPS.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/Anthony_Olson_PlsDontTouch/Auto_Landscape_Mat.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Anthony_Olson_PlsDontTouch/Auto_Landscape_Mat.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/Anthony_Olson_PlsDontTouch/Auto_Landscape_Mat_Inst.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Anthony_Olson_PlsDontTouch/Auto_Landscape_Mat_Inst.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/Anthony_Olson_PlsDontTouch/Material_Functions/Rock_Auto.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Anthony_Olson_PlsDontTouch/Material_Functions/Rock_Auto.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/Anthony_Olson_PlsDontTouch/Material_Functions/Sand_Auto.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Anthony_Olson_PlsDontTouch/Material_Functions/Sand_Auto.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/Anthony_Olson_PlsDontTouch/animatedLava_MAT_LavaLake.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Anthony_Olson_PlsDontTouch/animatedLava_MAT_LavaLake.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/Enemies/AI/BP_ShooterAI_Controller.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Enemies/AI/BP_ShooterAI_Controller.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/Enemies/AI/BehaviorTree/BD_ShooterAI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Enemies/AI/BehaviorTree/BD_ShooterAI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/Enemies/AI/BehaviorTree/BerzerkerAI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Enemies/AI/BehaviorTree/BerzerkerAI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/Enemies/AI/BehaviorTree/HuscarlAI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Enemies/AI/BehaviorTree/HuscarlAI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/Enemies/AI/BehaviorTree/RaiderAI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Enemies/AI/BehaviorTree/RaiderAI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/Enemies/AI/BehaviorTree/Tasks/BTT_StartStopAttack.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Enemies/AI/BehaviorTree/Tasks/BTT_StartStopAttack.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/Enemies/AI/E_AI_States.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Enemies/AI/E_AI_States.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/Enemies/AI/SpaceVikingBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Enemies/AI/SpaceVikingBase.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/Enemies/Berzerker/Berzerker.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Enemies/Berzerker/Berzerker.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/Enemies/Huscarl/Huscarl.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Enemies/Huscarl/Huscarl.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/Enemies/Raider/Raider.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Enemies/Raider/Raider.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/foliage/SM_grass_1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/foliage/SM_grass_1.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/foliage/SM_grass_2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/foliage/SM_grass_2.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/foliage/SM_grass_3.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/foliage/SM_grass_3.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/foliage/SM_jungle_tree_2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/foliage/SM_jungle_tree_2.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/foliage/SM_jungle_tree_5.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/foliage/SM_jungle_tree_5.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/foliage/SM_monstera_2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/foliage/SM_monstera_2.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/foliage/SM_monstera_3.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/foliage/SM_monstera_3.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/foliage/SM_pink_cordyline_1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/foliage/SM_pink_cordyline_1.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/foliage/SM_red_ginger_3.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/foliage/SM_red_ginger_3.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/foliage/SM_rock_24.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/foliage/SM_rock_24.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/foliage/SM_rock_25.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/foliage/SM_rock_25.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/materials/MI_branch_2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/materials/MI_branch_2.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/materials/MI_grass_1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/materials/MI_grass_1.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/materials/MI_ground_foliage_1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/materials/MI_ground_foliage_1.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/ruins/SM_ruins_props_41.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/ruins/SM_ruins_props_41.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/ruins/SM_ruins_props_45.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/ruins/SM_ruins_props_45.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/ruins/SM_ruins_props_75.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/ruins/SM_ruins_props_75.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/ruins/SM_ruins_props_82.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/ruins/SM_ruins_props_82.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/ruins/SM_ruins_props_83.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/ruins/SM_ruins_props_83.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/ruins/SM_ruins_props_84.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Jungle_ruins/ruins/SM_ruins_props_84.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Prefabs/PrefabCombatArea_1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/EnvironmentalPacks/Prefabs/PrefabCombatArea_1.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/FirstPersonBP/Player/HUD/Ammo-Counter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/FirstPersonBP/Player/HUD/Ammo-Counter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/FirstPersonBP/Player/PlayerCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/FirstPersonBP/Player/PlayerCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/FirstPersonBP/Player/components/BlinkAbility/BPC_BlinkAbilityController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/FirstPersonBP/Player/components/BlinkAbility/BPC_BlinkAbilityController.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/FirstPersonBP/Player/components/ParkourMovement.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/FirstPersonBP/Player/components/ParkourMovement.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/Maps/DemoLevel/Sublevels/LavaRun.umap" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Maps/DemoLevel/Sublevels/LavaRun.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/Maps/DemoLevel/Sublevels/LavaRun_BuiltData.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Maps/DemoLevel/Sublevels/LavaRun_BuiltData.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/Maps/DemoLevel/Sublevels/Wellspring.umap" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Maps/DemoLevel/Sublevels/Wellspring.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/Maps/DemoLevel/Sublevels/Wellspring1.umap" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Maps/DemoLevel/Sublevels/Wellspring1.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/Maps/FirstPersonExampleMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Maps/FirstPersonExampleMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/Maps/LavaRun_LevelStream/BigHeadArea.umap" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Maps/LavaRun_LevelStream/BigHeadArea.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/Maps/LavaRun_LevelStream/BigHeadArea_BuiltData.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Maps/LavaRun_LevelStream/BigHeadArea_BuiltData.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/VFX/FlameEffect/Particles/Explosion/MuzzleFlash.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/VFX/FlameEffect/Particles/Explosion/MuzzleFlash.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/Weapons/Auto-Bolter/Auto-Bolter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Weapons/Auto-Bolter/Auto-Bolter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/Weapons/BaseGun.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Weapons/BaseGun.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/Weapons/ParentProjectile.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Weapons/ParentProjectile.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/Weapons/Roto-Mag/RotoMag.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Weapons/Roto-Mag/RotoMag.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/Weapons/Roto-Mag/RotoMagProjectile.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Weapons/Roto-Mag/RotoMagProjectile.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Content/Weapons/Slag-Thrower/Slag-Thrower.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Content/Weapons/Slag-Thrower/Slag-Thrower.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Saved/Autosaves/Game/EnvironmentalPacks/Prefabs/PrefabCombatArea_1_Auto1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Saved/Autosaves/Game/EnvironmentalPacks/Prefabs/PrefabCombatArea_1_Auto1.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Saved/Autosaves/Game/Maps/FirstPersonExampleMap_Auto1.umap" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Saved/Autosaves/Game/Maps/FirstPersonExampleMap_Auto1.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Saved/Autosaves/PackageRestoreData.json" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Saved/Autosaves/PackageRestoreData.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Saved/Config/Windows/Engine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/FPS Backup - Copy/Saved/Config/Windows/Engine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Saved/Logs/FPS-backup-2022.01.06-17.49.33.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FPS Backup - Copy/Saved/Logs/FPS-backup-2022.01.07-03.23.16.log" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="23RGl2P1LI2zhrH5PBFNW81TdPA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2708bee-bc4c-4476-85ee-21cee33faf00" name="Changes" comment="" />
+      <created>1641689638233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641689638233</updated>
+    </task>
+    <servers />
+  </component>
+</project>
